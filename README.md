@@ -2,7 +2,7 @@
 
 ## Blog Post
 
-Full details can be found [here]([http://kaufmania.wordpress.com)
+Full details can be found [here](https://kaufmania.wordpress.com/2023/12/03/caching-db-query-results-in-kamailio/)
 
 ## Usage
 To run this example with Docker, in one shell cd to this directory and run:
