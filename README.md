@@ -1,8 +1,8 @@
-Kamailio DB Caching
+## Kamailio DB Caching
 
 ## Blog Post
 
-Full details can be found (here)[http://kaufmania.wordpress.com]
+Full details can be found [here]([http://kaufmania.wordpress.com)
 
 ## Usage
 To run this example with Docker, in one shell cd to this directory and run:
